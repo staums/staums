@@ -1,0 +1,7 @@
+/* Write your styles */
+
+table,tr,th,td {
+	border: 1px solid #000;
+	margin: 10px;
+	padding: 10px;
+}

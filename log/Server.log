@@ -1,0 +1,169 @@
+[2017-07-03 19:17:29 *14801.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14800.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14799.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14798.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14797.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14796.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14795.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 *14794.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:17:29 $14792.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:17:37 #14912.0]	ERROR	swReactorThread_send (ERROR 1005): send 8 byte failed, session#1 does not exist.
+[2017-07-03 19:17:37 #14912.0]	ERROR	swFactory_finish(:164): sendto to connection#1 failed. Error: Inappropriate ioctl for device[25].
+[2017-07-03 19:22:10 *14922.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14921.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14920.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14919.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14918.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14917.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14916.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 *14915.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:22:10 $14913.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:23:25 *15008.1]	ERROR	swServer_tcp_sendfile (ERROR 502): stat(/data/wwwroot/staums/server../log/Server.log) failed.
+[2017-07-03 19:24:49 *15014.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15013.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15012.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15011.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15010.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15009.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15008.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 *15007.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:24:49 $15005.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:28:28 *15053.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15052.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15051.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15050.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15049.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15048.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15047.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 *15046.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:28:28 $15044.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:28:56 *15095.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to undefined method swoole_client::getIP() in /data/wwwroot/staums/server/Server.php on line 24.
+[2017-07-03 19:28:56 $15092.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2017-07-03 19:30:14 *15102.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to undefined method swoole_client::getIP() in /data/wwwroot/staums/server/Server.php on line 24.
+[2017-07-03 19:30:14 $15092.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2017-07-03 19:30:20 *15125.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to undefined method swoole_client::getIP() in /data/wwwroot/staums/server/Server.php on line 24.
+[2017-07-03 19:30:20 $15092.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2017-07-03 19:31:05 *15126.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15101.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15100.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15099.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15098.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15097.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15096.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 *15094.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:31:05 $15092.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:31:30 *15159.1]	ERROR	zm_deactivate_swoole (ERROR 503): Fatal error: Call to undefined method swoole_client::getIP() in /data/wwwroot/staums/server/Server.php on line 26.
+[2017-07-03 19:31:30 $15156.0]	WARNING	swManager_check_exit_status: worker#1 abnormal exit, status=255, signal=0
+[2017-07-03 19:33:26 *15166.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15165.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15164.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15163.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15162.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15161.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15160.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 *15158.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:33:26 $15156.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:34:59 *15214.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15213.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15212.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15211.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15210.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15209.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15208.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 *15207.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:34:59 $15205.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:45:26 *15262.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15261.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15260.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15259.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15258.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15257.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15256.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15255.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 $15253.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:45:26 #15252.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15305.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15304.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15303.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15302.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15301.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15300.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15299.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 *15298.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 $15296.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-03 19:45:26 #15295.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-03 19:45:26 #15295.0]	NOTICE	Server is shutdown now.
+[2017-07-03 19:46:29 *15257.2]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:31 *15366.2]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:31 *15258.3]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:32 *15368.3]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:33 *15259.4]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:33 *15370.4]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:33 *15260.5]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:33 *15372.5]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:37 *15261.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:38 *15374.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:39 *15375.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 19:46:41 *15376.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-03 22:15:50 $15205.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=0, signal=9
+[2017-07-03 22:18:41 $15005.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=0, signal=9
+[2017-07-26 23:37:21 *18425.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-26 23:37:21 *18424.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-26 23:37:21 *18423.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-26 23:37:21 *18422.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30494.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30493.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30492.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30491.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30490.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30489.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30488.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 *30487.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 18:20:13 $30485.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-30 18:33:09 *30706.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=1111] does not exists.
+[2017-07-30 18:36:09 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2017-07-30 18:36:16 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2017-07-30 18:59:08 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:18 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:18 *30747.2]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=0] does not exists.
+[2017-07-30 18:59:26 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:27 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:28 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:28 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:34 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:35 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 18:59:36 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 19:00:05 *30747.2]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 19:00:43 *30747.2]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 19:01:38 *30746.1]	ERROR	swFactoryProcess_finish (ERROR 1005): connection[fd=4] does not exists.
+[2017-07-30 21:31:14 *30752.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30751.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30750.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30749.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30748.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30747.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30746.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 *30745.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 21:31:14 $30743.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-30 21:31:14 #30742.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-30 22:03:25 *30747.2]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:03:26 *31024.2]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:03:27 *30749.4]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:22:42 *30750.5]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:22:44 *31037.5]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:22:54 *30751.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:22:54 *31039.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 22:22:55 *31040.6]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 23:57:59 *30752.7]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-30 23:58:01 *31167.7]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2017-07-31 21:19:45 #2273.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2277.1]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2280.4]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2281.5]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2278.2]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2282.6]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 $2274.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2017-07-31 21:19:45 *2276.0]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2279.3]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:45 *2283.7]	WARNING	swSignalfd_onSignal: signal[1] callback is null.
+[2017-07-31 21:19:56 *2277.1]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
