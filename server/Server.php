@@ -88,10 +88,11 @@ class Server
 			
 		//判断是否是16进制数据
 		echo "Get Message From Client {$fd}:{$data}\n";
-		if (!ctype_xdigit($data)) {
+		if (ctype_xdigit($data)) {
 			echo "数据格式不正确（不是16进制）\n";
 			$serv->send($fd, '1'.$data);//数据格式不正确（不是16进制）			
 		} else {
+			//$data = pack('H*', $data);
 			//解析接收到的数据					
 			$dataArray = str_split($data);
 			if (!in_array($dataArray[0], self::OP)) {
@@ -122,16 +123,18 @@ class Server
 						$serv->send($fd, '4'.$data);//会话不存在
 					}	
 				} else if ($dataArray[0] == '2'){
-					//2转发消息			
-					if (is_numeric($dataArray[1])) {
+					//2转发消息	
+					//print_r($dataArray);	
+					if (is_numeric($dataArray[2])) {
 						//判断是否在线
 						$search['fd'] = $dataArray[1];
 						$search['status'] = '2';
 						$serverLinkInfo = $serverLinkModel->getInfo($search);				
 						if ($serverLinkInfo) {
-							$to_fd = $dataArray[1];
+							$to_fd = $dataArray[2];
 							unset($dataArray[0]);
 							unset($dataArray[1]);
+							unset($dataArray[2]);
 							$mes = implode("",$dataArray);
 							$serv->send($to_fd, $mes);//转发消息
 							$serv->send($fd, '0'.$data);//转发成功

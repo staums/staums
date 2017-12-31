@@ -170,7 +170,7 @@ class ApiUser extends Swoole\Controller
         }   
         
         /* 发送短信 */
-        $resSms = $this->ChuanglanSmsApi->sendSMS($smsData['mobile'],$smsData['content']); 			
+        $resSms = $this->ChuanglanSmsApi->sendSMS($smsData['mobile'],$smsData['content']); 		
 		$output=json_decode($resSms,true);
 		if(isset($output['code']) && $output['code']=='0'){
 			$resup = $smsLogModel->set($smsId, array('request' => $resSms)); 
